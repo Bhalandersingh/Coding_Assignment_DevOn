@@ -1,0 +1,71 @@
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.csproj.AssemblyReference.cache
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.AssemblyInfoInputs.cache
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.AssemblyInfo.cs
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.csproj.CoreCompileInputs.cache
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.RazorAssemblyInfo.cache
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.RazorAssemblyInfo.cs
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\bin\Debug\net8.0\nlog.config
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\bin\Debug\net8.0\appsettings.json
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\bin\Debug\net8.0\Coding_Assignment_DevOn.staticwebassets.runtime.json
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\bin\Debug\net8.0\Coding_Assignment_DevOn.exe
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\bin\Debug\net8.0\Coding_Assignment_DevOn.deps.json
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\bin\Debug\net8.0\Coding_Assignment_DevOn.runtimeconfig.json
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\bin\Debug\net8.0\Coding_Assignment_DevOn.dll
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\bin\Debug\net8.0\Coding_Assignment_DevOn.pdb
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\bin\Debug\net8.0\LoggerLibrary.dll
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\bin\Debug\net8.0\LoggerLibrary.pdb
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\staticwebassets\msbuild.Coding_Assignment_DevOn.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\staticwebassets\msbuild.build.Coding_Assignment_DevOn.props
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Coding_Assignment_DevOn.props
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Coding_Assignment_DevOn.props
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\scopedcss\bundle\Coding_Assignment_DevOn.styles.css
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\scopedcss\projectbundle\Coding_Assignment_DevOn.bundle.scp.css
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_A.A1435532.Up2Date
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.dll
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\refint\Coding_Assignment_DevOn.dll
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.pdb
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.genruntimeconfig.cache
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\ref\Coding_Assignment_DevOn.dll
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\bin\Debug\net8.0\nlog.config
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\bin\Debug\net8.0\appsettings.json
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\bin\Debug\net8.0\Coding_Assignment_DevOn.staticwebassets.runtime.json
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\bin\Debug\net8.0\Coding_Assignment_DevOn.exe
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\bin\Debug\net8.0\Coding_Assignment_DevOn.deps.json
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\bin\Debug\net8.0\Coding_Assignment_DevOn.runtimeconfig.json
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\bin\Debug\net8.0\Coding_Assignment_DevOn.dll
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\bin\Debug\net8.0\Coding_Assignment_DevOn.pdb
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\bin\Debug\net8.0\LoggerLibrary.dll
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\bin\Debug\net8.0\LoggerLibrary.pdb
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.csproj.AssemblyReference.cache
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.AssemblyInfoInputs.cache
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.AssemblyInfo.cs
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.csproj.CoreCompileInputs.cache
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.RazorAssemblyInfo.cache
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.RazorAssemblyInfo.cs
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.sourcelink.json
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\staticwebassets\msbuild.Coding_Assignment_DevOn.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\staticwebassets\msbuild.build.Coding_Assignment_DevOn.props
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Coding_Assignment_DevOn.props
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Coding_Assignment_DevOn.props
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\scopedcss\bundle\Coding_Assignment_DevOn.styles.css
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\scopedcss\projectbundle\Coding_Assignment_DevOn.bundle.scp.css
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_A.A1435532.Up2Date
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.dll
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\refint\Coding_Assignment_DevOn.dll
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.pdb
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\Coding_Assignment_DevOn.genruntimeconfig.cache
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\Coding_Assignment_DevOn\obj\Debug\net8.0\ref\Coding_Assignment_DevOn.dll

@@ -1,0 +1,66 @@
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\LoggerLibrary.dll
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\LoggerLibrary.pdb
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\obj\Debug\LoggerLibrary.csproj.AssemblyReference.cache
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\obj\Debug\LoggerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\obj\Debug\LoggerLibrary.dll
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\obj\Debug\LoggerLibrary.pdb
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\NLog.dll
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\System.Buffers.dll
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\System.Memory.dll
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\NLog.xml
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\System.Buffers.xml
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\System.Memory.xml
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bhala\source\repos\Coding_Assignment_DevOn\LoggerLibrary\obj\Debug\LoggerLi.1D50E1BD.Up2Date
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\LoggerLibrary.dll
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\LoggerLibrary.pdb
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\NLog.dll
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\System.Buffers.dll
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\System.Memory.dll
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\NLog.xml
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\System.Buffers.xml
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\System.Memory.xml
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\obj\Debug\LoggerLibrary.csproj.AssemblyReference.cache
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\obj\Debug\LoggerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\obj\Debug\LoggerLi.1D50E1BD.Up2Date
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\obj\Debug\LoggerLibrary.dll
+C:\Users\bhala\source\repos\main branch\Coding_Assignment_DevOn\LoggerLibrary\obj\Debug\LoggerLibrary.pdb

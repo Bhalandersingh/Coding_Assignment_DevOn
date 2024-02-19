@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Coding_Assignment_DevOn.props" />
+</Project>
