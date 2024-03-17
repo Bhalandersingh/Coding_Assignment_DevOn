@@ -1,6 +1,6 @@
 using System.Diagnostics;
 using LoggerLibrary;
-// test message from local
+// test message from online
 
 var builder = WebApplication.CreateBuilder(args);
 //LogManager.LoadConfiguration(string.Concat(Directory.GetCurrentDirectory(), "/nlog.config"));
